@@ -1,14 +1,14 @@
-import { Button } from '@workspace/ui/components/button'
 import '@workspace/ui/lib/fonts'
-import * as domain from 'node:domain'
 import Wrapper from '@workspace/ui/components/wrapper'
 import MainHeader from '@/app/components/MainHeader'
+import MainSectionMarche from '@/app/components/MainSectionMarche'
 
 export default function Page() {
   return (
     <Wrapper asChild>
       <main>
-        <MainHeader></MainHeader>
+        <MainHeader />
+        <MainSectionMarche />
       </main>
     </Wrapper>
   )
