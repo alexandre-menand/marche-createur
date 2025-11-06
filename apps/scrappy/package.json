@@ -1,0 +1,16 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "@types/node": "^20.19.9",
+    "@workspace/domaines": "workspace:*",
+    "@workspace/typescript-config": "workspace:*",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2"
+  }
+}
