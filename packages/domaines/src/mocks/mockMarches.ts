@@ -14,7 +14,7 @@ export const mockMarches: IMarche[] = [
       codePostal: '75001',
       adresse1: 'Place Vendôme',
     },
-    image: 'https://example.com/images/marche-noel.jpg',
+    image: 'https://menand.fr/projets/laurine/laurine-accueil.png',
   },
   {
     id: '2',
@@ -29,7 +29,7 @@ export const mockMarches: IMarche[] = [
       codePostal: '13001',
       adresse1: 'Quai du Port',
     },
-    image: 'https://example.com/images/marche-artisanal.jpg',
+    image: 'https://menand.fr/projets/laurine/laurine-accueil.png',
   },
   {
     id: '3',
@@ -45,7 +45,7 @@ export const mockMarches: IMarche[] = [
       adresse1: 'Rue Mercière',
       adresse2: 'Halle des Grains',
     },
-    image: 'https://example.com/images/marche-bio.jpg',
+    image: 'https://menand.fr/projets/laurine/laurine-accueil.png',
   },
   {
     id: '4',
@@ -60,7 +60,7 @@ export const mockMarches: IMarche[] = [
       codePostal: '33000',
       adresse1: 'Rue Sainte-Catherine',
     },
-    image: 'https://example.com/images/marche-nocturne.jpg',
+    image: 'https://menand.fr/projets/laurine/laurine-accueil.png',
   },
   {
     id: '5',
@@ -75,6 +75,6 @@ export const mockMarches: IMarche[] = [
       codePostal: '67000',
       adresse1: 'Place Kléber',
     },
-    image: 'https://example.com/images/marche-fermier.jpg',
+    image: 'https://menand.fr/projets/laurine/laurine-accueil.png',
   },
 ]
